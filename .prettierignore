@@ -1,0 +1,35 @@
+# Build outputs
+build/
+dist/
+.output/
+
+# Dependencies
+node_modules/
+
+# Cache
+.cache/
+.vite/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Package manager
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Generated files
+*.tsbuildinfo
